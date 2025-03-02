@@ -1,6 +1,10 @@
 [package]
 name = "rupper"
 version = "0.1.0"
+authors = ["Ninohana <ninohana@qq.com>"]
 edition = "2021"
+description = "A mod of driver-level keyboard simulation for Windows."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Ninohana/rupper"
 
 [dependencies]
